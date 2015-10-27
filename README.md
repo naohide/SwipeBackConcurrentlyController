@@ -1,4 +1,4 @@
-#SwipeBackConcurrentlyController
+SwipeBackConcurrentlyController
 ===============================
 
 
